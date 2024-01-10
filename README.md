@@ -6,7 +6,7 @@ Inviation Mobile App made with React Native, Axios, Rest Api, GraphQL, Apollo Cl
 User Authentication, login, registration Facility. User Contact
 List add, delete, edit, show and device contact add facility. Event Invitation create, preview facility. Add event contact, event contact list show,
 event contact list can be excluded from sending messages, all valid users
-of event contact list have the facility to send messages to email and mobile under event invitation. Account Detail show Facility.
+of event contact list have the facility to send messages to email and mobile under event invitation. Account Detail show Facility.
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 16px">
