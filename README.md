@@ -4,7 +4,7 @@ please download apk and check your android mobile device
 # Inviation Mobile App Feature
 Inviation Mobile App made with React Native, Axios, Rest Api, GraphQL, Apollo Client, Python, Django, MySQL. 
 User Authentication, login, registration Facility. User Contact
-List add, delete, edit, show and device contact add facility. Event Invitation create, preview facility. Add event contact, event contact list show,
+List add, delete, edit, show and device contact add facility. Event Invitation create, preview facility. Add event contact, event contact list show,
 event contact list can be excluded from sending messages, all valid users
 of event contact list have the facility to send messages to email and mobile under event invitation. Account Detail show Facility.
 
